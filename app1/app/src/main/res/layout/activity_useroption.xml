@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".useroption"
+    android:background="@drawable/backthemeapp"
+    android:padding="30dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="-10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:fontFamily="@font/bangers"
+            android:gravity="center"
+            android:text="Make
+            Selection"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textColor="@color/black"
+            android:textSize="50sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="casual"
+            android:gravity="center"
+            android:text="Sign in as:"
+            android:textAlignment="center"
+            android:textSize="25sp" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_marginTop="50dp"
+            android:background="@color/grey"
+            android:padding="10dp"
+            android:layout_marginBottom="-40dp">
+            
+            <ImageView
+                android:id="@+id/SellerIcon"
+                android:layout_width="100dp"
+                android:layout_height="80dp"
+                android:src="@drawable/img_12"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"/>
+            
+            <TextView
+                android:id="@+id/SellerText"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:text="Be a Seller!"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:fontFamily="@font/farro"
+                android:layout_toRightOf="@id/SellerIcon"
+                android:layout_marginTop="45dp"/>
+
+
+            <Button
+                android:id="@+id/SellerBtn"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="?android:attr/selectableItemBackground"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_marginTop="50dp"
+            android:background="@color/grey"
+            android:padding="10dp"
+            android:layout_marginBottom="-40dp">
+
+            <ImageView
+                android:id="@+id/CustomerIcon"
+                android:layout_width="100dp"
+                android:layout_height="80dp"
+                android:src="@drawable/img_11"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"/>
+
+            <TextView
+                android:id="@+id/CustomerText"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:text="Customer!"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:fontFamily="@font/farro"
+                android:layout_toRightOf="@id/CustomerIcon"
+                android:layout_marginTop="45dp"/>
+
+
+            <Button
+                android:id="@+id/CustomerBtn"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="?android:attr/selectableItemBackground"/>
+
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_marginTop="50dp"
+            android:background="@color/grey"
+            android:padding="10dp">
+
+            <ImageView
+                android:id="@+id/DelIcon"
+                android:layout_width="100dp"
+                android:layout_height="80dp"
+                android:src="@drawable/img_10"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"/>
+
+            <TextView
+                android:id="@+id/DelText"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:text="Delivery Guy!"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:fontFamily="@font/farro"
+                android:layout_toRightOf="@id/DelIcon"
+                android:layout_marginTop="45dp"/>
+
+
+            <Button
+                android:id="@+id/DelBtn"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="?android:attr/selectableItemBackground"/>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Detail"
+    android:orientation="vertical"
+    android:background="@drawable/backthemeapp">
+
+    <ImageButton
+        android:id="@+id/gobackcDetail"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:background="@drawable/baseline_arrow_back_24"
+        android:backgroundTint="@color/darkappcolor"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"/>
+
+
+    <TextView
+        android:id="@+id/Text_Tile"
+        android:layout_width="290dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="75dp"
+        android:layout_marginTop="18dp"
+        android:layout_marginEnd="46dp"
+        android:fontFamily="@font/bangers"
+        android:text="Checkout Detail"
+        android:textAlignment="center"
+        android:textColor="@color/darkappcolor"
+        android:textSize="30sp"
+        android:textStyle="italic" />
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/relativeLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="322dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="24dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="117dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="291dp"
+        android:backgroundTint="@color/appcolor"
+        app:cardCornerRadius="20dp"
+        app:cardElevation="8dp">
+
+        <ImageView
+            android:id="@+id/cimage"
+            android:layout_width="161dp"
+            android:layout_height="157dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            app:shapeAppearanceOverlay="@style/roundedImageViewRounded" />
+
+        <TextView
+            android:id="@+id/Text_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="190dp"
+            android:text="Product Image!"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/cname"
+            android:layout_width="152dp"
+            android:layout_height="76dp"
+            android:layout_marginLeft="190dp"
+            android:layout_marginTop="40dp"
+            android:cursorVisible="true"
+            android:fontFamily="@font/bungee"
+            android:hint="Product Name!"
+            android:textColorHint="@color/black"
+            android:textSize="20sp"
+            android:textStyle="italic" />
+
+        <TextView
+            android:id="@+id/cprice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="200dp"
+            android:layout_marginTop="120dp"
+            android:cursorVisible="true"
+            android:fontFamily="@font/bungee"
+            android:hint="Price!"
+            android:textColorHint="@color/black"
+            android:textSize="25sp"
+            android:textStyle="italic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="220dp"
+            android:text="Description:"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/cDesc"
+            android:layout_width="285dp"
+            android:layout_height="119dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="250dp"
+            android:hint="Product description!"
+            android:textColorHint="@color/black"
+            android:textSize="25sp" />
+
+
+    </androidx.cardview.widget.CardView>
+
+
+    <Button
+        android:id="@+id/cCheckout"
+        android:layout_width="150dp"
+        android:layout_height="64dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="135dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="160dp"
+        android:backgroundTint="@color/darkappcolor"
+        android:text="Checkout"
+        android:textSize="20sp" />
+
+
+</RelativeLayout>

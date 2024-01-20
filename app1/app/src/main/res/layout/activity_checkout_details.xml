@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UserProfile"
+    android:orientation="vertical"
+    android:background="@drawable/backthemeapp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:padding="20dp">
+
+        <ImageButton
+            android:id="@+id/BackCheckOutDetails"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/baseline_arrow_back_24"
+            android:padding="0dp"
+            android:background="#00000000"/>
+
+        <ImageView
+            android:id="@+id/CartLogo"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/img_14"
+            android:layout_marginLeft="10dp"
+            android:layout_centerVertical="true"/>
+
+
+        <TextView
+            android:id="@+id/User_details"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/CartLogo"
+            android:fontFamily="@font/bangers"
+            android:includeFontPadding="false"
+            android:text="User Details"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/Desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:includeFontPadding="false"
+            android:layout_toRightOf="@+id/CartLogo"
+            android:layout_below="@+id/User_details"
+            android:text="Check your details below before finalizing your order!"
+            android:fontFamily="@font/farro"
+            android:textSize="15sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-40dp"
+        android:padding="20dp"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Full name"
+            app:boxBackgroundColor="@color/grey"
+            app:boxStrokeColor="@color/black"
+            app:boxStrokeWidthFocused="2dp"
+            android:textColorHint="@color/black"
+            app:hintTextColor="@color/black"
+            app:cursorColor="@color/black"
+            android:layout_marginBottom="10dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/UserFullName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/baseline_edit_24"
+                android:drawablePadding="10dp"
+                android:inputType="text"
+                android:text=""
+                android:textColor="@color/black"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="City"
+            app:boxBackgroundColor="@color/grey"
+            app:boxStrokeColor="@color/black"
+            app:boxStrokeWidthFocused="2dp"
+            android:textColorHint="@color/black"
+            app:hintTextColor="@color/black"
+            app:cursorColor="@color/black"
+            android:layout_marginBottom="10dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/UserCity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/baseline_location_city_24"
+                android:drawablePadding="10dp"
+                android:inputType="text"
+                android:text=""
+                android:textColor="@color/black"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter your Address"
+            app:boxBackgroundColor="@color/grey"
+            app:boxStrokeColor="@color/black"
+            app:boxStrokeWidthFocused="2dp"
+            android:textColorHint="@color/black"
+            app:hintTextColor="@color/black"
+            app:cursorColor="@color/black"
+            android:layout_marginBottom="10dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/Address"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/baseline_home_24"
+                android:drawablePadding="10dp"
+                android:inputType="text"
+                android:text=""
+                android:textColor="@color/black"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Phone Number"
+            app:boxBackgroundColor="@color/grey"
+            app:boxStrokeColor="@color/black"
+            app:boxStrokeWidthFocused="2dp"
+            android:textColorHint="@color/black"
+            app:hintTextColor="@color/black"
+            app:cursorColor="@color/black"
+            android:layout_marginBottom="10dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/UserPhn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/baseline_mobile_friendly_24"
+                android:drawablePadding="10dp"
+                android:inputType="number"
+                android:text=""
+                android:textColor="@color/black"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+        <Button
+            android:id="@+id/nxt"
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Next"
+            android:textStyle="bold"
+            android:backgroundTint="#C19A6B"
+            android:onClick="updatedata"/>
+
+
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="0dp"
+            android:src="@drawable/fort1" />
+
+    </RelativeLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MobileOTP"
+    android:background="@drawable/backthemeapp">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/b2opt"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@drawable/flag_transparent"
+            android:src="@drawable/baseline_arrow_back_24"
+            android:padding="20dp"/>
+
+        <ImageView
+            android:id="@+id/Lock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/img_5"
+            android:background="@drawable/flag_transparent"
+            android:padding="30dp"
+            android:layout_marginTop="-15dp"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginTop="-40dp"
+            android:fontFamily="@font/bangers"
+            android:gravity="center"
+            android:text="Via SMS "
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textColor="@color/black"
+            android:textSize="50sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="casual"
+            android:gravity="center"
+            android:text="Select Country code and enter phone number for OTP!"
+            android:textAlignment="center"
+            android:textSize="18sp"/>
+
+        <com.hbb20.CountryCodePicker
+            android:id="@+id/Country_Code"
+            android:layout_width="300dp"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            app:ccp_autoDetectCountry="true"
+            app:ccp_showFlag="true"
+            app:ccp_showNameCode="true"
+            app:ccp_showFullName="true"
+            android:background="@drawable/rounded_corner"
+            android:layout_marginTop="40dp"
+            android:padding="10dp"/>
+
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/EnterMobNo"
+            android:layout_width="300dp"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            style="@style/Widget.MaterialComponents.TextInputLayout.FilledBox"
+            app:boxBackgroundColor="@color/grey"
+            app:boxStrokeColor="@color/black"
+            app:boxStrokeWidthFocused="2dp"
+            android:hint="Phone Number"
+            app:startIconDrawable="@drawable/baseline_mobile_friendly_24"
+            app:startIconTint="@color/black"
+            app:endIconMode="clear_text"
+            app:endIconTint="@color/black"
+            android:textColorHint="@color/black">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button
+            android:id="@+id/GoToOTP"
+            android:onClick="callVerifyOTPScreen"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="Verify"
+            android:backgroundTint="#C19A6B"
+            android:textColor="@color/white"
+            android:layout_marginTop="30dp"
+            android:layout_gravity="center"/>
+
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:layout_marginRight="-8dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/fort1"/>
+
+    </LinearLayout>
+
+
+
+</ScrollView>

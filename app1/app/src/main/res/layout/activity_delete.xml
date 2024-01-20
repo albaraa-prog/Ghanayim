@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".delete"
+    android:background="@drawable/backthemeapp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
+
+
+        <TextView
+            android:layout_width="241dp"
+            android:layout_height="60dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="79dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="91dp"
+            android:text="Delete product"
+            android:textColor="@color/darkappcolor"
+            android:textSize="30sp" />
+        <ImageButton
+            android:id="@+id/gobackdel"
+            android:layout_width="61dp"
+            android:layout_height="60dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="25dp"
+            android:background="@drawable/baseline_logout_24"
+            android:backgroundTint="@color/darkappcolor" />
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="410dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="17dp"
+            android:layout_marginTop="93dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="228dp"
+            android:backgroundTint="@color/appcolor"
+            app:cardCornerRadius="20dp"
+            app:cardElevation="8dp">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/delimage"
+                    android:layout_width="wrap_content"
+                    android:layout_height="147dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginStart="109dp"
+                    android:layout_marginTop="33dp"
+                    android:layout_marginEnd="108dp" />
+
+                <TextView
+                    android:layout_width="141dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginStart="121dp"
+                    android:layout_marginTop="186dp"
+                    android:layout_marginEnd="112dp"
+                    android:layout_marginBottom="185dp"
+                    android:text="product image"
+                    android:textColor="@color/darkappcolor"
+                    android:textSize="20sp"></TextView>
+
+                <TextView
+                    android:id="@+id/delname"
+                    android:layout_width="188dp"
+                    android:layout_height="37dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginStart="100dp"
+                    android:layout_marginTop="222dp"
+                    android:layout_marginEnd="122dp"
+                    android:hint="product name"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/delprice"
+                    android:layout_width="154dp"
+                    android:layout_height="38dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginStart="100dp"
+                    android:layout_marginTop="258dp"
+                    android:layout_marginEnd="120dp"
+                    android:hint="product price"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/deldesc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="98dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginStart="60dp"
+                    android:layout_marginTop="297dp"
+                    android:layout_marginEnd="72dp"
+                    android:hint="product descripsion"
+                    android:textSize="20sp" />
+            </RelativeLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <Button
+            android:id="@+id/deletebutton"
+            android:layout_width="153dp"
+            android:layout_height="69dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="126dp"
+            android:layout_marginTop="44dp"
+            android:layout_marginEnd="130dp"
+            android:layout_marginBottom="108dp"
+            android:backgroundTint="@color/darkappcolor"
+            android:text="Delete"
+            android:textSize="20sp">
+
+        </Button>
+
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

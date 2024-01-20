@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".about_us"
+    android:background="@drawable/backthemeapp"
+    android:padding="30dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/backfromAbout"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@drawable/baseline_arrow_back_24"
+            android:padding="0dp"/>
+
+        <ImageButton
+            android:id="@+id/Lock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="-30dp"
+            android:padding="30dp"
+            android:src="@drawable/img_7"
+            android:background="@drawable/flag_transparent"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginTop="-40dp"
+            android:fontFamily="@font/bangers"
+            android:gravity="center"
+            android:text="About us "
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textColor="@color/black"
+            android:textSize="35sp" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="@font/farro"
+            android:layout_marginTop="-10dp"
+            android:gravity="center"
+            android:text="Discover Oman's rich heritage and culture with our Souvenir App!"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:textStyle="italic"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="@font/bangers"
+            android:layout_marginTop="-10dp"
+            android:gravity="center"
+            android:text="Connect with us: "
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:textSize="30sp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_marginTop="15dp">
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/facebook"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="32dp"
+                android:layout_marginTop="0dp"
+                android:layout_marginEnd="32dp"
+                android:layout_marginBottom="10dp"
+                android:background="#00000000"
+                android:drawableStart="@drawable/fb"
+                android:drawablePadding="20dp"
+                android:paddingStart="20dp"
+                android:text="Facebook"
+                android:textAlignment="viewStart"/>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/instagram"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="32dp"
+                android:layout_marginTop="0dp"
+                android:layout_marginEnd="32dp"
+                android:layout_marginBottom="10dp"
+                android:background="#00000000"
+                android:drawableStart="@drawable/insta"
+                android:drawablePadding="20dp"
+                android:paddingStart="20dp"
+                android:text="Instagram"
+                android:textAlignment="viewStart"/>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/twitter"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="32dp"
+                android:layout_marginTop="0dp"
+                android:layout_marginEnd="32dp"
+                android:layout_marginBottom="10dp"
+                android:background="#00000000"
+                android:drawableStart="@drawable/twitter"
+                android:drawablePadding="20dp"
+                android:paddingStart="20dp"
+                android:text="Twitter"
+                android:textAlignment="viewStart"/>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/Gmail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="32dp"
+                android:layout_marginTop="0dp"
+                android:layout_marginEnd="32dp"
+                android:layout_marginBottom="10dp"
+                android:background="#00000000"
+                android:drawableStart="@drawable/gmail"
+                android:drawablePadding="20dp"
+                android:paddingStart="20dp"
+                android:text="gmail"
+                android:textAlignment="viewStart" />
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="@font/farro"
+            android:gravity="center"
+            android:text="Developed by:"
+            android:textAlignment="center"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="@font/farro"
+            android:gravity="center"
+            android:text="Mohammad Mesum Hussain"
+            android:textAlignment="center"
+            android:textSize="20sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="@font/farro"
+            android:gravity="center"
+            android:text="Al Baraa Mohammed Al Harthi"
+            android:textAlignment="center"
+            android:textSize="20sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="@font/farro"
+            android:gravity="center"
+            android:text="Imama Nisar Alvi"
+            android:textAlignment="center"
+            android:textSize="20sp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="@font/farro"
+            android:gravity="center"
+            android:text="Reem Ahmed Al Shandoudi"
+            android:textAlignment="center"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_gravity="center"
+            android:fontFamily="@font/farro"
+            android:gravity="center"
+            android:text="©GHANAYIM 2023"
+            android:textAlignment="center"
+            android:textSize="20sp" />
+    </LinearLayout>
+</LinearLayout>

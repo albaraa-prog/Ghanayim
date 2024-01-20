@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="522918bc-3155-4c01-938e-b74601c4e8b8" name="Changes" comment="Final Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/appimg-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/alright.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/angry.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/appsplash.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/backsplash.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/backthemeapp.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_account_circle_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_arrow_back_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_close_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_contact_support_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_dark_mode_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_delete_forever_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_drive_file_rename_outline_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_edit_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_email_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_feedback_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_format_overline_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_home_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_info_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_lock_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_lock_reset_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_logout_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_man_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_manage_search_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_menu_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_message_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_mobile_friendly_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_search_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_settings_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_shopping_cart_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_star_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_upload_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_verified_user_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/baseline_woman_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/border.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/bottom_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/button.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/fb.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/fort1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/fort2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/gmail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/goback.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/happy.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/ic_launcher_background_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/ic_launcher_bg_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/img_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/insta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/item_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/kids.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/kids.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/kidssection_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/loginpic.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/men.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/mid.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/mobile.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/newemail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/newlock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/omaninfo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/omaninfoform.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/round_back_blue_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/round_back_brown_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/round_back_while_stroke_1000.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/round_back_white_1000.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/rounded_corner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/sad.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/textsplash.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/twitter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/uploading_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/drawable/women.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/ic_launcher_1star-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/ic_launcher_2star-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/ic_launcher_3star-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/ic_launcher_4star-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/ic_launcher_5star-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/ic_launcher_arrow-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/ic_launcher_backarrow-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/ic_launcher_background-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/ic_launcher_bg-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/ic_launcher_fb-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/ic_launcher_insta-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/ic_launcher_lock-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/ic_launcher_lockk-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/ic_launcher_twitter-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/ic_splashscreen-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/ic_splashscreen1-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/AnimatedSplash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/CartActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/CheckoutDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/Dashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/DelAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/DelForgetPass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/Deletepage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/Delivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/Detail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/Favorites.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/Forgetpassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/MobileOTP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/MyAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/OTP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/ProfileActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/Rating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/SellerForgetPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/SellerReg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/SellerReset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/UserModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/UserProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/about_us.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/cartDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/delLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/delReg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/delete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/deliDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/delreset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/feedback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/kids.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/men.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/reset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/sellerLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/signup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/splashscreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/upload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/useroption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/java/com/example/app1/women.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/kidssection-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/kidssection1-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/mensection-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/anim/bottom_animation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/anim/slide_in_right.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/anim/slide_out_left.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/anim/top_animation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/animation1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/alright.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/angry.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/appimg_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/appimg_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/appsplash.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/backsplash.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/backthemeapp.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_account_circle_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_arrow_back_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_bookmark_border_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_close_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_contact_support_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_dark_mode_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_delete_forever_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_drive_file_rename_outline_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_edit_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_email_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_favorite_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_feedback_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_format_overline_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_home_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_info_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_location_city_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_lock_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_lock_reset_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_logout_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_manage_search_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_menu_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_message_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_mobile_friendly_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_password_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_search_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_settings_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_shopping_cart_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_star_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_upload_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/baseline_verified_user_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/border.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/bottom_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/button.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/fb.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/fort1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/fort2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/gmail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/goback.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/happy.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/ic_launcher_background_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/ic_launcher_bg_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/img_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/img_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/img_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/img_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/insta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/item_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/kids.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/kidssection_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/loginpic.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/men.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/mid.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/mobile.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/newemail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/newlock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/omaninfo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/omaninfoform.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/paypal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/round_back_blue_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/round_back_brown_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/round_back_while_stroke_1000.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/round_back_white_1000.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/rounded_corner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/sad.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/textsplash.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/twitter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/uploading_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/drawable/women.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/font/antic.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/font/audiowide.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/font/bangers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/font/bungee.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/font/farro.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_about_us.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_animated_splash.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_cart.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_cartdetail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_checkout_details.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_dashboard.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_del_forget_pass.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_del_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_del_reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_delete.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_deletepage.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_delidetail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_delivery.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_delreset.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_detail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_favorites.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_feedback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_forgetpassword.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_kids.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_men.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_mobile_otp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_otp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_payment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_rating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_reset.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_seller_forget_password.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_seller_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_seller_reg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_seller_reset.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_signup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_upload.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_user_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_useroption.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/activity_women.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/deliproduct.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/main_activity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/progress_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/recycleproduct.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/layout/splashscreen.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/menu/adminnav.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/menu/bottomnav.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/appimg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/appimg_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_1star.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_1star_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_2star.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_2star_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_3star.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_3star_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_4star.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_4star_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_5star.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_5star_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_arrow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_arrow_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_backarrow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_backarrow_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_background_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_bg_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_fb.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_fb_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_insta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_insta_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_lock.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_lock_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_lockk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_lockk_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_twitter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_twitter_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_splashscreen.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_splashscreen1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_splashscreen1_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/ic_splashscreen_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/uploading.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi-v26/uploading_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/appimg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/appimg_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/appimg_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/backarrow.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_1star.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_1star_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_1star_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_1star_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_2star.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_2star_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_2star_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_2star_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_3star.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_3star_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_3star_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_3star_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_4star.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_4star_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_4star_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_4star_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_5star.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_5star_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_5star_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_5star_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_arrow.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_arrow_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_arrow_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_backarrow.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_backarrow_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_background_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_background_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_bg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_bg_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_bg_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_fb.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_fb_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_fb_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_fb_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_insta.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_insta_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_insta_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_insta_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_lock.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_lock_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_lock_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_lockk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_lockk_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_lockk_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_twitter.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_twitter_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_twitter_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_launcher_twitter_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_splashscreen.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_splashscreen1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_splashscreen1_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_splashscreen1_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_splashscreen1_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_splashscreen_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_splashscreen_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/ic_splashscreen_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/luban.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/uploading.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/uploading_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-hdpi/uploading_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/appimg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/appimg_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/appimg_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/backarrow.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_1star.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_1star_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_1star_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_1star_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_2star.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_2star_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_2star_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_2star_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_3star.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_3star_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_3star_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_3star_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_4star.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_4star_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_4star_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_4star_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_5star.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_5star_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_5star_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_5star_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_arrow.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_arrow_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_arrow_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_backarrow.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_backarrow_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_background_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_background_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_bg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_bg_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_bg_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_fb.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_fb_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_fb_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_fb_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_insta.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_insta_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_insta_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_insta_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_lock.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_lock_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_lock_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_lockk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_lockk_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_lockk_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_twitter.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_twitter_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_twitter_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_launcher_twitter_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_splashscreen.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_splashscreen1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_splashscreen1_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_splashscreen1_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_splashscreen1_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_splashscreen_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_splashscreen_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/ic_splashscreen_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/luban.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/uploading.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/uploading_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-mdpi/uploading_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/appimg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/appimg_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/appimg_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/backarrow.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_1star.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_1star_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_1star_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_1star_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_2star.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_2star_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_2star_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_2star_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_3star.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_3star_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_3star_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_3star_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_4star.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_4star_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_4star_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_4star_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_5star.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_5star_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_5star_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_5star_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_arrow.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_arrow_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_arrow_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_backarrow.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_backarrow_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_background_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_background_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_bg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_bg_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_bg_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_fb.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_fb_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_fb_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_fb_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_insta.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_insta_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_insta_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_insta_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_lock.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_lock_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_lock_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_lockk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_lockk_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_lockk_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_twitter.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_twitter_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_twitter_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_launcher_twitter_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_splashscreen.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_splashscreen1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_splashscreen1_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_splashscreen1_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_splashscreen1_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_splashscreen_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_splashscreen_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/ic_splashscreen_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/luban.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/uploading.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/uploading_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xhdpi/uploading_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/appimg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/appimg_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/appimg_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/backarrow.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_1star.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_1star_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_1star_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_1star_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_2star.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_2star_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_2star_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_2star_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_3star.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_3star_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_3star_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_3star_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_4star.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_4star_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_4star_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_4star_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_5star.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_5star_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_5star_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_5star_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_arrow.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_arrow_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_arrow_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_backarrow.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_backarrow_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_background_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_background_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_bg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_bg_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_bg_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_fb.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_fb_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_fb_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_fb_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_insta.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_insta_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_insta_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_insta_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_lock.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_lock_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_lock_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_lockk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_lockk_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_lockk_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_twitter.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_twitter_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_twitter_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_launcher_twitter_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_splashscreen.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_splashscreen1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_splashscreen1_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_splashscreen1_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_splashscreen1_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_splashscreen_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_splashscreen_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/ic_splashscreen_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/luban.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/uploading.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/uploading_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxhdpi/uploading_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/appimg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/appimg_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/appimg_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/backarrow.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_1star.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_1star_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_1star_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_1star_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_2star.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_2star_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_2star_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_2star_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_3star.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_3star_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_3star_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_3star_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_4star.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_4star_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_4star_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_4star_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_5star.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_5star_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_5star_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_5star_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_arrow.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_arrow_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_arrow_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_backarrow.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_backarrow_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_background_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_background_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_bg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_bg_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_bg_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_fb.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_fb_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_fb_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_fb_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_insta.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_insta_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_insta_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_insta_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_lock.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_lock_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_lock_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_lockk.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_lockk_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_lockk_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_twitter.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_twitter_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_twitter_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_twitter_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_splashscreen.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_splashscreen1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_splashscreen1_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_splashscreen1_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_splashscreen1_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_splashscreen_background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_splashscreen_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/ic_splashscreen_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/luban.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/uploading.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/uploading_foreground.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/mipmap-xxxhdpi/uploading_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/values-land/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/values-v23/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/values-w1240dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/values-w600dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/values/font_certs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/values/ic_launcher_arrow_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/values/ic_launcher_backarrow_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/values/ic_launcher_lock_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/values/ic_launcher_lockk_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/values/ids.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/values/preloaded_fonts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/uploading-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/app/src/main/womensection-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/settings.gradle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\albra\.android\avd\Pixel_7_API_34.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/app1">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2bDHPv1eyxGVIcUx5BTKghH0dtW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/albra/Desktop/app1"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\albra\Desktop\app1\app1\app\src\main\res\layout" />
+      <recent name="C:\Users\albra\Desktop\app1\app1\app\src\main\java\com\example\app1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Ghanayim.app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Ghanayim.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="522918bc-3155-4c01-938e-b74601c4e8b8" name="Changes" comment="" />
+      <created>1705742709711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705742709711</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Commit" />
+  </component>
+</project>

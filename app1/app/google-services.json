@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "307997128223",
+    "firebase_url": "https://ghanayim-6a3a1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ghanayim-6a3a1",
+    "storage_bucket": "ghanayim-6a3a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307997128223:android:53f36a9ed0fc6cc1b0472a",
+        "android_client_info": {
+          "package_name": "com.example.app1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClvELJTcNvKHmjTzxOEMDPq1PAZ-Q7tNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

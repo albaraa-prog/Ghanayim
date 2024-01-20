@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="35" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <queries>
+        <package android:name="com.Facebook.katana" />
+        <package android:name="com.Twitter.android" />
+        <package android:name="com.Instagram.android" />
+    </queries>
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/appimg"
+        android:label="Ghanayim"
+        android:roundIcon="@mipmap/appimg_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.App1"
+        tools:targetApi="34">
+        <activity
+            android:name=".CheckoutDetails"
+            android:exported="false" />
+        <activity
+            android:name=".cartDetail"
+            android:exported="false"/>
+        <activity
+            android:name=".Favorites"
+            android:exported="false" />
+        <activity
+            android:name=".deliDetail"
+            android:exported="false" />
+        <activity
+            android:name=".Deletepage"
+            android:exported="false" />
+        <activity
+            android:name=".Payment"
+            android:exported="false" />
+        <activity
+            android:name=".Delivery"
+            android:exported="false" />
+        <activity
+            android:name=".kids"
+            android:exported="false" />
+        <activity
+            android:name=".women"
+            android:exported="false" />
+        <activity
+            android:name=".men"
+            android:exported="false" />
+        <activity
+            android:name=".SellerReset"
+            android:exported="false" />
+        <activity
+            android:name=".SellerForgetPassword"
+            android:exported="false" />
+        <activity
+            android:name=".delreset"
+            android:exported="false" />
+        <activity
+            android:name=".DelForgetPass"
+            android:exported="false" />
+        <activity
+            android:name=".SellerReg"
+            android:exported="false" />
+        <activity
+            android:name=".delReg"
+            android:exported="false" />
+        <activity
+            android:name=".delLogin"
+            android:exported="false" />
+        <activity
+            android:name=".sellerLogin"
+            android:exported="false" />
+        <activity
+            android:name=".about_us"
+            android:exported="false" />
+        <activity
+            android:name=".Detail"
+            android:exported="false"
+            android:label="@string/title_activity_detail"
+            android:theme="@style/Theme.App1" />
+        <activity
+            android:name=".delete"
+            android:exported="false" />
+        <activity
+            android:name=".upload"
+            android:exported="true" />
+        <activity
+            android:name=".MobileOTP"
+            android:exported="false" />
+        <activity
+            android:name=".AnimatedSplash"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".feedback"
+            android:exported="false" />
+        <activity
+            android:name=".reset"
+            android:exported="false" />
+        <activity
+            android:name=".Rating"
+            android:exported="false" />
+        <activity
+            android:name=".OTP"
+            android:exported="false" />
+        <activity
+            android:name=".useroption"
+            android:exported="false" />
+        <activity
+            android:name=".Forgetpassword"
+            android:exported="false" />
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CartActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".signup"
+            android:exported="false" />
+        <activity
+            android:name=".Dashboard"
+            android:exported="false" />
+        <activity
+            android:name=".splashscreen"
+            android:exported="false" />
+        <activity
+            android:name=".UserProfile"
+            android:exported="false" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <service
+            android:name="com.paypal.android.sdk.payments.PayPalService"
+            android:exported="false" />
+    </application>
+
+</manifest>

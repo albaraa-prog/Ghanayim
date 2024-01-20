@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".upload"
+    android:background="@drawable/backthemeapp">
+
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="-120dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="56dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="60dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="105dp"
+            android:text="Upload products"
+            android:textColor="@color/darkappcolor"
+            android:textSize="30sp" />
+
+        <ImageButton
+            android:id="@+id/uplogout"
+            android:layout_width="61dp"
+            android:layout_height="60dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="13dp"
+            android:layout_marginEnd="20dp"
+            android:background="@drawable/baseline_logout_24"
+            android:backgroundTint="@color/darkappcolor"></ImageButton>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="441dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="19dp"
+            android:layout_marginTop="114dp"
+            android:layout_marginEnd="14dp"
+            android:backgroundTint="@color/appcolor"
+            app:cardCornerRadius="20dp"
+            app:cardElevation="8dp"
+            android:id="@+id/cardup">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/uploadimage"
+                    android:layout_width="138dp"
+                    android:layout_height="128dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginStart="112dp"
+                    android:layout_marginTop="21dp"
+                    android:layout_marginEnd="128dp"
+                    android:layout_marginBottom="292dp"
+                    android:background="@drawable/baseline_upload_24"
+                    android:backgroundTint="@color/darkappcolor" />
+
+                <TextView
+                    android:layout_width="206dp"
+                    android:layout_height="43dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginStart="78dp"
+                    android:layout_marginTop="150dp"
+                    android:layout_marginEnd="94dp"
+                    android:text="upload product image"
+                    android:textColor="@color/darkappcolor"
+                    android:textSize="20sp">
+
+                </TextView>
+
+                <EditText
+                    android:id="@+id/prodname"
+                    android:layout_width="265dp"
+                    android:layout_height="61dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginStart="43dp"
+                    android:layout_marginTop="187dp"
+                    android:layout_marginEnd="69dp"
+                    android:hint="write product name"
+                    android:textSize="20sp" />
+
+                <EditText
+                    android:id="@+id/prodprice"
+                    android:layout_width="wrap_content"
+                    android:layout_height="62dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginStart="41dp"
+                    android:layout_marginTop="244dp"
+                    android:layout_marginEnd="70dp"
+                    android:hint="write product price"
+                    android:textSize="20sp" />
+
+                <EditText
+                    android:id="@+id/prodsec"
+                    android:layout_width="269dp"
+                    android:layout_height="60dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginStart="41dp"
+                    android:layout_marginTop="305dp"
+                    android:layout_marginEnd="68dp"
+                    android:hint="write product section"
+                    android:textSize="20sp" />
+
+                <EditText
+                    android:id="@+id/proddesc"
+                    android:layout_width="340dp"
+                    android:layout_height="60dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginStart="41dp"
+                    android:layout_marginTop="365dp"
+                    android:layout_marginEnd="28dp"
+                    android:hint="write product descripsion"
+                    android:textSize="20sp" />
+            </RelativeLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <Button
+            android:id="@+id/uploadbutton"
+            android:layout_width="wrap_content"
+            android:layout_height="63dp"
+            android:layout_alignTop="@+id/cardup"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="122dp"
+            android:layout_marginTop="453dp"
+            android:layout_marginEnd="134dp"
+            android:backgroundTint="@color/darkappcolor"
+            android:text="upload"
+            android:textSize="20sp" />
+
+        <com.google.android.material.bottomnavigation.BottomNavigationView
+            android:id="@+id/adminnav"
+            android:layout_width="303dp"
+            android:layout_height="63dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="55dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginEnd="53dp"
+            android:layout_marginBottom="15dp"
+            android:background="@drawable/bottom_background"
+            android:elevation="2dp"
+            app:itemIconSize="30dp"
+            app:itemIconTint="@drawable/item_selector"
+            app:itemRippleColor="@android:color/transparent"
+            app:labelVisibilityMode="unlabeled"
+            app:menu="@menu/adminnav" />
+
+
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+

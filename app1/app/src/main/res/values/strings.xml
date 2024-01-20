@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ghanayim</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="oman_is_the_oldest_independent_state_in_the_arab_world">\'Oman is the oldest independent state in the Arab world.\'</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="price">Price</string>
+    <string name="name">name</string>
+    <string name="description">description</string>
+    <string name="section" />
+
+</resources>
